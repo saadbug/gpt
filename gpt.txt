@@ -1,0 +1,5 @@
+tgpt --provider pollinations --key "sk_GGwDH2q6m193YG5UqrDC8Pz0HTG2Hfjm" "Your question here"
+
+tgpt --provider gemini --key "AIzaSyBXBc8OBCDNehJTw07NGnqo_4L94lk6KmA" "Your question here"
+
+curl -sSL https://raw.githubusercontent.com/aandrew-me/tgpt/main/install | bash -s -- /usr/local/bin
